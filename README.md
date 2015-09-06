@@ -84,3 +84,7 @@ Only direct messaging. You have the option to send the same message to several p
 
 AOE has this kind of chat system and it often leads to an interesting form of team chat.
 Suppose you have three players who have teamed up and need to communicate amongst each other. Ideally they would each select their corresponding two teammates while sending messages and this way everyone receives an identical chat log. But often times, players might leave one teammate out for some messages or have a fourth, secret teammate also receiving what he tells the others. This is especially useful for betrayals.
+
+## Credits
+
+Idea was spawned in a convesation between Hayg and Souren on their flight back home from Tokyo.
